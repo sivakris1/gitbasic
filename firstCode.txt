@@ -1,1 +1,2 @@
 hello world ! how are you !! new version
+take input from user
